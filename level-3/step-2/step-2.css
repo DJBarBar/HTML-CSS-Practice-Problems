@@ -1,8 +1,6 @@
-
 .main-bottom-section {
     margin-top: 65px;
     text-align: center;
-
 }
 
 .item {
@@ -21,17 +19,12 @@
 
 .full-width-item {
     width: 40%;
-    margin:0 auto 20px;
+    margin: 0 auto 20px;
     cursor: pointer;
-
 }
-
 
 .large-item {
     width: 40%;
-    margin:0 auto 20px;
+    margin: 0 auto 20px;
     cursor: pointer;
-
 }
-
-
